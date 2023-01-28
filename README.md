@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Yele
 
-Submitted by: **Your Name Here**
+Submitted by: Kareem Diabate
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Yele is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 15 hours spent in total
 
 ## Required Features
 
@@ -18,15 +18,16 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ ] I added the pledged and goal numbers under the games description to be able to check if my filtering function worked
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- Here is my  -->
+http://somup.com/c0VuFYxUm7
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://screencast-o-matic.com/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +36,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+It was bit hard for me to complete challenge three because it has been while I coded, I forgot some of the syntaxes but Google was my friend lol.
 
 ## License
 
